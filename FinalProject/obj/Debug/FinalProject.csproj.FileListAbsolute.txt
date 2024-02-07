@@ -1,0 +1,7 @@
+C:\semester 3\multi-tier\project\FinalProject\bin\Debug\FinalProject.exe.config
+C:\semester 3\multi-tier\project\FinalProject\bin\Debug\FinalProject.exe
+C:\semester 3\multi-tier\project\FinalProject\bin\Debug\FinalProject.pdb
+C:\semester 3\multi-tier\project\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\semester 3\multi-tier\project\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\semester 3\multi-tier\project\FinalProject\obj\Debug\FinalProject.exe
+C:\semester 3\multi-tier\project\FinalProject\obj\Debug\FinalProject.pdb
